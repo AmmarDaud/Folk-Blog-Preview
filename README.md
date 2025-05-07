@@ -51,8 +51,8 @@ This project helped me improve my front-end development skills in:
   width: 2.5rem;
   height: 2.5rem;
   border-radius: 50%;
-  object-fit: cover;
-}
+  object-fit: cover``
+```
   
             **Continued development**
 1. Enhancing hover and focus accessibility for keyboard users
