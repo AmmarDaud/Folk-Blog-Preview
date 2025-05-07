@@ -17,53 +17,52 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[alt text](<assets/images/Blog Preview Card SS..png>)
+![Blog Preview Card Screenshot](<assets/images/Folk BLOG SS.png>)
 
 ### Links
 
-- Live Site URL: [Live Project](http://127.0.0.1:5500/Mod-3/Blog-preview-card/index.html)
+- Live Site URL: [Live Project](http://127.0.0.1:5500/Lab-3/Folk_Blog-Preview-Card/index.html)
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
+- Bootstrap 5 classes and utilities
+- Custom CSS for hover and color enhancements
+- Responsive layout (mobile-first)
 
-### What I learned
+## What I learned
 
-This project helped me the basics of:
+This project helped me improve my front-end development skills in:
 
-- Styling cards with consistent spacing and hover animations
-- Applying semantic tags and maintaining accessibility as much as i can.
-- Practiced modular CSS, keeping styles organized with reusable classes and a clear naming convention.
-- Writing clean, reusable CSS with custom properties and resets
+- Styling cards with consistent spacing and hover animations using Bootstrap utilities
+- Structuring semantic HTML for accessibility and clarity
+- Practicing modular CSS with reusable classes and meaningful naming conventions
+- Enhancing transitions and avatar design using custom styles
 
-#### Example snippet:
+### Example snippet:
 
 ```css
-  .card:hover {
+.card:hover {
   transform: scale(1.02);
-  }
+  transition: transform 0.2s ease;
+}
 
-  .avatar {
+.avatar {
   width: 2.5rem;
   height: 2.5rem;
   border-radius: 50%;
+  object-fit: cover;
 }
-
-  ```
   
             **Continued development**
-1. Enhancing hover/focus accessibility features
-2. Adding dark mode toggle functionality
-3. Using CSS Grid for layout control 
+1. Enhancing hover and focus accessibility for keyboard users
+2. Rebuilding the layout using CSS Grid for more layout control and flexibility
 
            **Useful resources**
 1. Figma
 2. WebAIM – Accessible Design Principles
 3. MDN Web Docs - Flexbox – Helped clarify centering elements with Flexbox.
-4. 
+4. Hacker themes - Bootstrap Cheatsheet
  
              **Author**
 Name : Ammar Daud Khan
