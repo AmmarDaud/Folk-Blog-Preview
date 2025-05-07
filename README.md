@@ -42,16 +42,15 @@ This project helped me improve my front-end development skills in:
 ### Example snippet:
 
 ```css
-.card:hover {
-  transform: scale(1.02);
-  transition: transform 0.2s ease;
+.title-hover {
+  cursor: pointer;
+  transition: color 0.5s ease;
 }
 
-.avatar {
-  width: 2.5rem;
-  height: 2.5rem;
-  border-radius: 50%;
-  object-fit: cover``
+.title-hover:hover {
+  color: hsl(47, 88%, 63%);
+}
+
 ```
   
             **Continued development**
