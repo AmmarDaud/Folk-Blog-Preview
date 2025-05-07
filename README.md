@@ -17,11 +17,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[alt text](<images/Qr Code SS.png>)
+[alt text](<assets/images/Blog Preview Card SS..png>)
 
 ### Links
 
-- Live Site URL: [Live Project](http://127.0.0.1:5500/Mod-3/qr-code-component-main/qr-code-component-main/index.html)
+- Live Site URL: [Live Project](http://127.0.0.1:5500/Mod-3/Blog-preview-card/index.html)
 
 ### Built with
 
